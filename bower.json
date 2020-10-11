@@ -1,0 +1,19 @@
+{
+  "name": "Cob Life",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": [
+    "Dean Nellis <nellisdean@gmail.com> (http://deannellisdesign.com/)"
+  ],
+  "description": "A resource for learning about Cob houses and Natural Buidling.",
+  "keywords": [
+    "Cob",
+    "Natural Building",
+    "Cob Houses"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
